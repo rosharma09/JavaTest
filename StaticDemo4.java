@@ -16,7 +16,6 @@ class New{
 	public New(){
 		this(10);
 		System.out.println("Inside New Class constructor");
-		
 	}
 	
 	void m2(){
